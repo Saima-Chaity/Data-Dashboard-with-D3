@@ -21,3 +21,6 @@
 **Provides  detailed information about specific country -**
 
 <img width="1274" alt="screen shot 2017-11-14 at 12 55 51 pm" src="https://user-images.githubusercontent.com/31779751/32804434-e3d9437a-c93b-11e7-9ecb-e3e6b2e9479d.png">
+
+**Demo:** https://still-sierra-57395.herokuapp.com
+
